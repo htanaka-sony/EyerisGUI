@@ -1,0 +1,6 @@
+[submodule "EyerisProject"]
+	path = EyerisProject
+	url = https://github.com/htanaka-sony/EyerisProject.git
+[submodule "3DViewer"]
+	path = 3DViewer
+	url = https://github.com/htanaka-sony/3DViewer.git
