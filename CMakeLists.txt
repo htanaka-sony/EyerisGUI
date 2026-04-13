@@ -16,6 +16,7 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib) # 静的ライブラ
 
 add_definitions(
   -DEYERIS_3D_VISUALIZATION=1
+# -DNO_USER_CHECK=1 # 開発テスト用
 )
 
 # モジュールパス
